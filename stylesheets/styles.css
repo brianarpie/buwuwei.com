@@ -1,7 +1,7 @@
 * {
   font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei",
                "微软雅黑", STXihei, "华文细黑", sans-serif;
-  font-size: 13px;
+  font-size: 14px;
 }
 img{
   display: block;
@@ -9,5 +9,5 @@ img{
 }
 .chapter {
   text-align: center;
-  margin: 0 auto;
+  margin: 20px auto 20px auto;
 }
