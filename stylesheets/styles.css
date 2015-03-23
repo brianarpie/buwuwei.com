@@ -12,10 +12,10 @@ img{
   height: 100%;
   text-align: center;
   label {
+    display: inline-block;
     font-weight: bold;
     padding: 10px;
   }
   div {
-    padding-bottom: 120px;
-  }
+    margin-bottom: 120px;
 }
