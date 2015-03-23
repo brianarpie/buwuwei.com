@@ -7,8 +7,12 @@ img{
   margin: 0 auto;
 }
 .middle-section {
-  width: 800px;
+  width: auto;
   margin: 0 auto;
   height: 100%;
   text-align: center;
+  label {
+    font-weight: bold;
+    padding: 10px;
+  }
 }
