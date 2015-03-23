@@ -15,4 +15,7 @@ img{
     font-weight: bold;
     padding: 10px;
   }
+  div {
+    padding-bottom: 120px;
+  }
 }
