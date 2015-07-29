@@ -5,7 +5,7 @@ img{
   display: block;
   margin: 0 auto;
 }
-.btc-quote {
+#btc-quote {
   display: inline-block;
   position: relative;
   left: 5px;
